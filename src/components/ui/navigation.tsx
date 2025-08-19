@@ -15,9 +15,9 @@ const Navigation = () => {
         {/* Logo */}
         <div className="flex items-center space-x-2">
           <div className="w-8 h-8 gradient-hero rounded-lg flex items-center justify-center">
-            <span className="text-white font-bold text-lg">G</span>
+            <span className="text-white font-bold text-lg">O</span>
           </div>
-          <span className="text-xl font-bold text-foreground">glean</span>
+          <span className="text-xl font-bold text-foreground">Orion Tech</span>
         </div>
 
         {/* Navigation Links */}

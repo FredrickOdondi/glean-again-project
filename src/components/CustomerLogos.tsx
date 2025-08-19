@@ -2,14 +2,11 @@ import React from 'react';
 
 const CustomerLogos = () => {
   const customers = [
-    { name: 'WealthSimple', logo: 'W' },
-    { name: 'Gainsight', logo: 'G' },
-    { name: 'Ericsson', logo: 'E' },
-    { name: 'Greenhouse', logo: 'GH' },
-    { name: 'LaunchDarkly', logo: 'LD' },
-    { name: 'Plaid', logo: 'P' },
-    { name: 'Pinterest', logo: 'PI' },
-    { name: 'BillBolt', logo: 'BB' },
+    { name: 'Safaricom', logo: 'S' },
+    { name: 'Equity Bank', logo: 'E' },
+    { name: 'KCB Bank', logo: 'K' },
+    { name: 'I and M Bank', logo: 'I&M' },
+    { name: 'Kenyatta University', logo: 'KU' },
   ];
 
   return (
