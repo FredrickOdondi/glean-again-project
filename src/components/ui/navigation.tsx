@@ -74,8 +74,8 @@ const Navigation = () => {
 
         {/* Auth Buttons */}
         <div className="flex items-center space-x-4">
-          <Button variant="ghost">Sign in</Button>
-          <Button className="gradient-hero shadow-hero">Get a demo</Button>
+          <Button variant="ghost" onClick={() => window.location.href = '/auth'}>Sign in</Button>
+          <Button className="gradient-hero shadow-hero" onClick={() => window.location.href = '/auth'}>Get a demo</Button>
         </div>
       </div>
     </nav>
